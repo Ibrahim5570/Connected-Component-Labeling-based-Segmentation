@@ -2,7 +2,7 @@
 
 **Course:** EC 312 – Digital Image Processing  
 **Assignment:** #01 — CCL-based Segmentation  
-**Author:** Ibrahim Abdullah (454188) | CE 45 A, NUST
+**Author:** Ibrahim Abdullah, NUST
 
 ---
 
@@ -139,7 +139,10 @@ Average Cup Dice:  0.2801
 **Manual 8-connectivity CCL** — implemented from scratch using a two-pass union-find approach, satisfying the assignment requirement and providing full control over the labeling logic.
 
 ---
-
+## Sample Output
+![Sample Comparison](Results/Comparisons/drishtiGS_001_comparison.png)
+---
+---
 ## Limitations
 
 - Cup Dice (0.28) is considerably lower than Disc Dice (0.59) due to the cup's small size and low contrast with the surrounding disc tissue.
